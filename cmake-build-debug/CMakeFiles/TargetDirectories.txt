@@ -1,0 +1,3 @@
+/Users/alexrandall/CLionProjects/MP1/cmake-build-debug/CMakeFiles/MP1.dir
+/Users/alexrandall/CLionProjects/MP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexrandall/CLionProjects/MP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
