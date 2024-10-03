@@ -10,6 +10,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <iomanip>
+#include <set>
 #include <string>
 
 using namespace std;
@@ -59,7 +60,7 @@ int main()
     total /= 100;
 
     // Output the total amount owed and inputs the amount paid
-    cout << "Customer owes $" << total << endl;
+    cout << "Customer owes $" << fixed << setprecision(2) << total << endl;
     cout << "Customer pays $";
     cin >> payment;
 
